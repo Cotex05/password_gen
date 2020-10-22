@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(18, 2, 90);
+    position: relative;
+}
+
+h1 {
+    color: greenyellow;
+    font-family: monospace;
+    letter-spacing: 1.5px;
+    font-size: 5rem;
+    margin: 20px;
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+
+.btn {
+    margin: 100px;
+}
+
+.password-text {
+    color: ghostwhite;
+    font-family: sans-serif, Arial, Helvetica;
+    text-align: center;
+    margin-top: 15%;
+}
